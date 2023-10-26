@@ -1,0 +1,15 @@
+@import "colors";
+@import "typography";
+
+@import "pages/home";
+
+@import "components/navbar";
+
+body {
+  background: $color-background;
+}
+
+* {
+  color: $color-text;
+  box-sizing: border-box;
+}
