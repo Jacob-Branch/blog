@@ -1,6 +1,33 @@
 ---
 title: "The Raccons"
+date: 2023-10-24T11:30:03+00:00
+# weight: 1
+# aliases: ["/first"]
+tags: ["Hackathon", "Typescript", "React"]
+author: "Jake"
+# author: ["Me", "You"] # multiple authors
+showToc: false
+TocOpen: false
 draft: false
+hidemeta: false
+comments: false
+description: "My experience in the Racoons hackathon and what we built over the 48 hours"
+disableHLJS: true # to disable highlightjs
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+cover:
+  image: "https://static.wixstatic.com/media/53ba9f_dfbc6cd19f2e459ba0409345c505c447~mv2.gif" # image path/url
+  alt: "Cover for the light and dark theme post" # alt text
+  caption: "Cover for the light and dark theme post" # display caption under cover
+  relative: false # when using page bundles set this to true
+  hidden: false # only hide on current single page
 ---
 
 # My experience in The Racoons hackathon 2023
