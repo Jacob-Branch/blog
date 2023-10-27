@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://blog.jakethehuman.dev/tags/hackathon/</loc>
+    <lastmod>2023-10-24T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.jakethehuman.dev/</loc>
+    <lastmod>2023-10-24T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.jakethehuman.dev/posts/</loc>
+    <lastmod>2023-10-24T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.jakethehuman.dev/tags/react/</loc>
+    <lastmod>2023-10-24T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.jakethehuman.dev/tags/</loc>
+    <lastmod>2023-10-24T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.jakethehuman.dev/posts/theraccoons/</loc>
+    <lastmod>2023-10-24T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.jakethehuman.dev/tags/typescript/</loc>
+    <lastmod>2023-10-24T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.jakethehuman.dev/posts/dark-and-light-themes/</loc>
+    <lastmod>2023-10-23T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.jakethehuman.dev/tags/non-programming/</loc>
+    <lastmod>2023-10-23T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.jakethehuman.dev/categories/</loc>
+  </url>
+</urlset>

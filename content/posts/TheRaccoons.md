@@ -58,3 +58,24 @@ that give the game a bit of new charm and raise awareness about the impacts of m
 the proposed rules we got to work, one of my teammates got to work creating the basic website in react and a small 
 backend to handle the websocket connection between players, the other (Gustavs) got to work making the pixel art for the 
 chess pieces, and i worked on the new rule set and design ideas.
+
+### What problems did we run in to in the process
+
+- The pawn movement we problematic as not only is its movement odd (it can only move forward one spece unless it is its 
+first move in which case it can move two spaces) but ther is also "En pessant" where if an enemy pawn moves two spaces 
+and lands next to your pawn you can take it as if it had only moved one space
+- There were some minor networking issues, where initially we trusted the client to have accurate time on their browser 
+to an accuracy of about 2 seconds, but that was a very bad assumptuin as one player turned out to have a clock 2 min in 
+the future
+- We sadly ran out of time to test everything properly, and because of the mental illnesses being implemented later 
+then the base game, that including the check mate, in some cases you could take the enemy king and the game would continue
+
+### The pitch and results of the project
+
+In the end the pitch got recieved well and our Mental Chess took first place in the GameDev challenge, which won use
+500 EUR to share and each a free spot as an intern in their game studio, but since i dont plan on entering the game dev 
+field ill sadly not be taking them up on it, even tho it sounds like a wonderful oppertunity.
+
+You can watch me pitching the game [here](https://youtu.be/-RU_4tzY0Bw?t=5282) and the results announcment [here](https://youtu.be/-RU_4tzY0Bw?t=16797).
+
+The project can be viewed [here](http://nav.lv:5173/) as well, and the devpost submition can also be viewed [here](https://devpost.com/software/mental-chess).
